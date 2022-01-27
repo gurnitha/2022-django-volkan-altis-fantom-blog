@@ -111,3 +111,12 @@ Github repository: https://github.com/gurnitha/2022-django-volkan-altis-fantom-b
         NOTE: :)
 
 
+#### 11. Create Post model and run migrations
+
+        modified:   README.md
+        new file:   blog/migrations/0001_initial.py
+        modified:   blog/models.py
+        
+        NOTE: :)
+
+
