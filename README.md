@@ -15,5 +15,19 @@ Github repository: https://github.com/gurnitha/2022-django-volkan-altis-fantom-b
         new file:   manage.py
 
 
+#### 2. Create django app 'blog'
+
+        modified:   README.md
+        new file:   blog/__init__.py
+        new file:   blog/admin.py
+        new file:   blog/apps.py
+        new file:   blog/migrations/__init__.py
+        new file:   blog/models.py
+        new file:   blog/tests.py
+        new file:   blog/views.py
+        modified:   config/settings.py
+
+        NOTE: :)
+
 
 
