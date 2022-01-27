@@ -211,3 +211,18 @@ Github repository: https://github.com/gurnitha/2022-django-volkan-altis-fantom-b
         new file:   blog/templates/blog/shared/aside_popular_posts.html
         new file:   blog/templates/blog/shared/aside_search.html
         new file:   blog/templates/blog/shared/aside_tags.html
+        
+        NOTE: :)
+
+
+### 19. Post Detail Part 3: Create Author model, added relationship OneToMany with Post and re-created db
+
+        modified:   README.md
+        modified:   blog/admin.py
+        modified:   blog/migrations/0001_initial.py
+        modified:   blog/models.py
+        new file:   media/uploads/authors/2022/01/27/ing-sm.jpg
+        ...
+        new file:   media/uploads/posts/2022/01/27/blog-4_OusIn81.jpg
+        
+        NOTE: :)
