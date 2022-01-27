@@ -131,3 +131,17 @@ Github repository: https://github.com/gurnitha/2022-django-volkan-altis-fantom-b
         NOTE: :)
 
 
+#### 13. Generic display views - Load and fetch posts using ListView
+
+        modified:   README.md
+        modified:   blog/templates/blog/inc/content_main.html
+        modified:   blog/templates/blog/index.html
+        modified:   blog/urls.py
+        modified:   blog/views.py
+        new file:   media/uploads/posts/2022/01/27/blog-1.jpg
+        new file:   media/uploads/posts/2022/01/27/blog-2.jpg
+        new file:   media/uploads/posts/2022/01/27/blog-3.jpg
+        
+        NOTE: :)
+
+

@@ -8,5 +8,5 @@ from .views import *
 
 app_name = 'blog'
 urlpatterns = [
-    path('', HomePageView.as_view(), name='index'),
+    path('', PostListView.as_view(), name='post_list'),
 ]
