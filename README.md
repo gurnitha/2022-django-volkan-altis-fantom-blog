@@ -160,3 +160,16 @@ Github repository: https://github.com/gurnitha/2022-django-volkan-altis-fantom-b
         NOTE: :)
 
 
+
+### PAGINATION
+--------------
+
+
+#### 15. Pagination Part 1 - Make pagination as shared file to include in home page
+
+        modified:   README.md
+        modified:   blog/templates/blog/inc/content_main.html
+        new file:   blog/templates/blog/shared/pagination.html      
+        
+        NOTE: :)
+
