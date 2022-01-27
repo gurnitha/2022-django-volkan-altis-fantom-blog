@@ -5,7 +5,7 @@ from django.shortcuts import render
 from django.utils import timezone
 from django.views.generic.base import TemplateView
 from django.views.generic.list import ListView
-
+from django.views.generic.detail import DetailView
 # Locals
 from .models import Post 
 
@@ -28,6 +28,18 @@ class PostListView(ListView):
     # Get all posts with status pubish
     def get_queryset(self):
         return self.model.objects.filter(status='published')
+
+
+class PostDetailView(DetailView):
+
+    model = Post 
+    context_object_name = 'post'
+    template_name = "blog/post_detail.html"
+
+    def get_context_data(self, **kwargs):
+        context = super().get_context_data(**kwargs)
+        context['title'] = 'Post'
+        return context
 
 
 

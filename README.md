@@ -181,3 +181,19 @@ Github repository: https://github.com/gurnitha/2022-django-volkan-altis-fantom-b
         modified:   blog/views.py
         
         NOTE: :)
+
+
+
+### POST DETAIL
+---------------
+
+
+### 17. Post Detail Part 1: View, Template, Urls
+
+        modified:   README.md
+        modified:   blog/templates/blog/inc/content_main.html
+        new file:   blog/templates/blog/post_detail.html
+        modified:   blog/urls.py
+        modified:   blog/views.py
+        
+        NOTE: :)

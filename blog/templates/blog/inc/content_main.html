@@ -12,7 +12,7 @@
                             <div class="blog_text">
                                 <div class="blog_text_inner">
                                     <a class="cat" href="#">Gadgets</a>
-                                    <a href="single-blog.html">
+                                    <a href="{% url 'blog:post_detail' post.slug %}">
                                         <h4>{{ post.title }}</h4>
                                     </a>
                                     <p>{{ post.content }}</p>
