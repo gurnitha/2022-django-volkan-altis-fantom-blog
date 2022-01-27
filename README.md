@@ -79,3 +79,14 @@ Github repository: https://github.com/gurnitha/2022-django-volkan-altis-fantom-b
         NOTE: :)
 
 
+#### 8. Create include files for home page      
+
+        modified:   README.md
+        new file:   blog/templates/blog/inc/content_aside.html
+        new file:   blog/templates/blog/inc/content_main.html
+        new file:   blog/templates/blog/inc/slider.html
+        modified:   blog/templates/blog/index.html
+        
+        NOTE: :)
+
+
