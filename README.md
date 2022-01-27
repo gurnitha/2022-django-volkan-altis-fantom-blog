@@ -173,3 +173,11 @@ Github repository: https://github.com/gurnitha/2022-django-volkan-altis-fantom-b
         
         NOTE: :)
 
+
+#### 16. Pagination Part 2 - Paginating the page
+
+        modified:   README.md
+        modified:   blog/templates/blog/shared/pagination.html
+        modified:   blog/views.py
+        
+        NOTE: :)

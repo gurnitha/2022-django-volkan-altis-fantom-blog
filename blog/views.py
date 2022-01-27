@@ -15,6 +15,7 @@ from .models import Post
 class PostListView(ListView):
 
     model = Post 
+    paginate_by = 2
     context_object_name = 'posts'
     template_name = "blog/index.html"
 
