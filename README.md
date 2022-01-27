@@ -30,4 +30,12 @@ Github repository: https://github.com/gurnitha/2022-django-volkan-altis-fantom-b
         NOTE: :)
 
 
+#### 3. Create home page: View, Template and Urls
+
+        new file:   blog/templates/blog/index.html
+        new file:   blog/urls.py
+        modified:   blog/views.py
+        modified:   config/urls.py
+
+        NOTE: :)
 
