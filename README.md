@@ -145,3 +145,18 @@ Github repository: https://github.com/gurnitha/2022-django-volkan-altis-fantom-b
         NOTE: :)
 
 
+#### 14. Generic display views - Filter posts by status published
+
+        modified:   README.md
+        modified:   blog/templates/blog/index.html
+        modified:   blog/views.py
+        new file:   media/uploads/posts/2022/01/27/blog-1_IuZm8eB.jpg
+        new file:   media/uploads/posts/2022/01/27/blog-1_TIFIANn.jpg
+        new file:   media/uploads/posts/2022/01/27/blog-2_6DLn1oe.jpg
+        new file:   media/uploads/posts/2022/01/27/blog-3_V77GBfp.jpg
+        new file:   media/uploads/posts/2022/01/27/blog-4.jpg
+        new file:   media/uploads/posts/2022/01/27/blog-4_259KB2A.jpg
+        
+        NOTE: :)
+
+

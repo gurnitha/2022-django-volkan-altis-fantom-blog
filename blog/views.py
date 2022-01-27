@@ -19,9 +19,15 @@ class PostListView(ListView):
     template_name = "blog/index.html"
 
     def get_context_data(self, **kwargs):
-        context = super().get_context_data(**kwargs)
-        context['now'] = timezone.now()
+        context = super(PostListView, self).get_context_data(**kwargs)
+        # context['now'] = timezone.now()
+        context['title'] = 'Home'
         return context
+
+    # Get all posts with status pubish
+    def get_queryset(self):
+        return self.model.objects.filter(status='published')
+
 
 
 
