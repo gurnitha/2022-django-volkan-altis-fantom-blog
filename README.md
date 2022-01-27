@@ -46,3 +46,16 @@ Github repository: https://github.com/gurnitha/2022-django-volkan-altis-fantom-b
         modified:   blog/templates/blog/index.html
 
         NOTE: :)
+
+
+#### 5. Add and load static and media files
+
+        modified:   README.md
+        modified:   blog/templates/blog/index.html
+        modified:   config/settings.py
+        new file:   config/static/css/_button.css
+        ...
+        new file:   config/static/vendors/owl-carousel/owl.carousel.min.js
+        modified:   config/urls.py
+
+        NOTE: Slider loaded but does not sliding :)
