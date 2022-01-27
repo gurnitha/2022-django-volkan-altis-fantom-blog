@@ -226,3 +226,10 @@ Github repository: https://github.com/gurnitha/2022-django-volkan-altis-fantom-b
         new file:   media/uploads/posts/2022/01/27/blog-4_OusIn81.jpg
         
         NOTE: :)
+
+
+### 20. Post Detail Part 4: Load and fetch data from db to post_detail page
+
+        modified:   README.md
+        modified:   blog/templates/blog/post_detail.html
+        modified:   blog/views.py 

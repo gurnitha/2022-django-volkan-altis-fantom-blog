@@ -40,6 +40,7 @@ class PostDetailView(DetailView):
         context = super().get_context_data(**kwargs)
         context['title'] = 'Post'
         return context
+        
 
 
 
