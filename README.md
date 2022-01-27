@@ -70,4 +70,12 @@ Github repository: https://github.com/gurnitha/2022-django-volkan-altis-fantom-b
         NOTE: :)
 
 
+#### 7. Create and extending base template
+
+        modified:   README.md
+        new file:   blog/templates/base.html
+        modified:   blog/templates/blog/index.html       
+
+        NOTE: :)
+
 
