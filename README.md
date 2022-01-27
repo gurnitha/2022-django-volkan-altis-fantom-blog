@@ -39,3 +39,10 @@ Github repository: https://github.com/gurnitha/2022-django-volkan-altis-fantom-b
 
         NOTE: :)
 
+
+#### 4. Add template theme to home page
+
+        modified:   README.md
+        modified:   blog/templates/blog/index.html
+
+        NOTE: :)
