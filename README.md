@@ -102,3 +102,12 @@ Github repository: https://github.com/gurnitha/2022-django-volkan-altis-fantom-b
         NOTE: :)
 
 
+#### 10. Create page title using block tags
+
+        modified:   README.md
+        modified:   blog/templates/base.html
+        modified:   blog/templates/shared/head.html
+        
+        NOTE: :)
+
+
