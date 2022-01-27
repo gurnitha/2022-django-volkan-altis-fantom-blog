@@ -197,3 +197,17 @@ Github repository: https://github.com/gurnitha/2022-django-volkan-altis-fantom-b
         modified:   blog/views.py
         
         NOTE: :)
+
+
+### 18. Post Detail Part 2: Sharing Content Aside with the home page
+
+        modified:   README.md
+        deleted:    blog/templates/blog/inc/content_aside.html
+        modified:   blog/templates/blog/index.html
+        modified:   blog/templates/blog/post_detail.html
+        new file:   blog/templates/blog/shared/aside_banner.html
+        new file:   blog/templates/blog/shared/aside_blogger.html
+        new file:   blog/templates/blog/shared/aside_category.html
+        new file:   blog/templates/blog/shared/aside_popular_posts.html
+        new file:   blog/templates/blog/shared/aside_search.html
+        new file:   blog/templates/blog/shared/aside_tags.html
