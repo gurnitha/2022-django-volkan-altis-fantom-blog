@@ -59,3 +59,15 @@ Github repository: https://github.com/gurnitha/2022-django-volkan-altis-fantom-b
         modified:   config/urls.py
 
         NOTE: Slider loaded but does not sliding :)
+
+
+#### 6. Base View - TemplateView: Rendering homepage using TemplateView
+
+        modified:   README.md
+        modified:   blog/urls.py
+        modified:   blog/views.py
+
+        NOTE: :)
+
+
+

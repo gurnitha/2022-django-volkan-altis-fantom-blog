@@ -2,9 +2,15 @@
 
 # Django modules
 from django.shortcuts import render
+from django.views.generic.base import TemplateView
 
 # Create your views here.
 
 
-def index(request):
-	return render(request, 'blog/index.html')
+class HomePageView(TemplateView):
+    template_name = "blog/index.html"
+
+
+
+
+

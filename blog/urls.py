@@ -4,9 +4,9 @@
 from django.urls import path
 
 # Locals
-from . import views
+from .views import *
 
 app_name = 'blog'
 urlpatterns = [
-    path('', views.index, name='index'),
+    path('', HomePageView.as_view(), name='index'),
 ]
