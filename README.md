@@ -90,3 +90,15 @@ Github repository: https://github.com/gurnitha/2022-django-volkan-altis-fantom-b
         NOTE: :)
 
 
+#### 9. Create shared files for the base template
+
+        modified:   README.md
+        modified:   blog/templates/base.html
+        new file:   blog/templates/shared/footer.html
+        new file:   blog/templates/shared/head.html
+        new file:   blog/templates/shared/header.html
+        new file:   blog/templates/shared/scripts.html
+        
+        NOTE: :)
+
+
