@@ -120,3 +120,14 @@ Github repository: https://github.com/gurnitha/2022-django-volkan-altis-fantom-b
         NOTE: :)
 
 
+#### 12. Defining how the Post model display in admin panel, and insert some posts
+
+        modified:   README.md
+        modified:   blog/admin.py
+        new file:   media/uploads/posts/2022/01/27/m-blog-1.jpg
+        new file:   media/uploads/posts/2022/01/27/m-blog-2.jpg
+        new file:   media/uploads/posts/2022/01/27/m-blog-3.jpg
+        
+        NOTE: :)
+
+
