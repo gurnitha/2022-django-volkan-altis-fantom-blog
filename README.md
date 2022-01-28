@@ -233,3 +233,19 @@ Github repository: https://github.com/gurnitha/2022-django-volkan-altis-fantom-b
         modified:   README.md
         modified:   blog/templates/blog/post_detail.html
         modified:   blog/views.py 
+
+        NOTE:
+
+        The right and left arrow button do not appear
+        as they should be. It due to the link of vendor
+        style css is not properly linked.
+
+        (:
+
+
+### 21. Post Detail Part 5: Fixing link of vendor style css to show the left and right arrow button
+
+        modified:   README.md
+        modified:   blog/templates/shared/head.html
+
+        NOTE: :)
